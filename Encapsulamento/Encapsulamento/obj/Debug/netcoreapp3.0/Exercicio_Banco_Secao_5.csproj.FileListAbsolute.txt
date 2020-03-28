@@ -1,0 +1,11 @@
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.exe
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.deps.json
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.runtimeconfig.json
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.runtimeconfig.dev.json
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.dll
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\bin\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.pdb
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\obj\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.csprojAssemblyReference.cache
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\obj\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.AssemblyInfoInputs.cache
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\obj\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.AssemblyInfo.cs
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\obj\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.dll
+C:\Users\thais\Documents\C# Completo\Fixacao_5\Exercicio_Banco_Secao_5\obj\Debug\netcoreapp3.0\Exercicio_Banco_Secao_5.pdb

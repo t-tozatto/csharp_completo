@@ -1,0 +1,11 @@
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.exe
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.deps.json
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.runtimeconfig.json
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.runtimeconfig.dev.json
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.dll
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\bin\Debug\netcoreapp3.0\Enumerados_09.pdb
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\obj\Debug\netcoreapp3.0\Enumerados_09.csprojAssemblyReference.cache
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\obj\Debug\netcoreapp3.0\Enumerados_09.AssemblyInfoInputs.cache
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\obj\Debug\netcoreapp3.0\Enumerados_09.AssemblyInfo.cs
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\obj\Debug\netcoreapp3.0\Enumerados_09.dll
+C:\Users\thais\Documents\C# Completo\Enumerados_09\Enumerados_09\obj\Debug\netcoreapp3.0\Enumerados_09.pdb

@@ -1,0 +1,11 @@
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.exe
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.deps.json
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.runtimeconfig.json
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.runtimeconfig.dev.json
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.dll
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\bin\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.pdb
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\obj\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.csprojAssemblyReference.cache
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\obj\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.AssemblyInfoInputs.cache
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\obj\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.AssemblyInfo.cs
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\obj\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.dll
+C:\Users\thais\Documents\C# Completo\HerancaPolimorfisboAbstract\HerancaPolimorfisboAbstract\obj\Debug\netcoreapp3.0\HerancaPolimorfisboAbstract.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Enumerados_09/1.0.0": {
+        "runtime": {
+          "Enumerados_09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enumerados_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
